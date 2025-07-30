@@ -10,6 +10,10 @@ Ollama Python examples at [ollama-python/examples](https://github.com/ollama/oll
 Ollama JavaScript examples at [ollama-js/examples](https://github.com/ollama/ollama-js/tree/main/examples)
 
 
+## Ruby examples
+Ruby developer guide with testing examples at [docs/ruby.md](ruby.md)
+
+
 ## OpenAI compatibility examples
 Ollama OpenAI compatibility examples at [ollama/examples/openai](../docs/openai.md)
 
